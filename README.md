@@ -46,6 +46,7 @@ eSteps for extrusion, any PID tuning may have to be redone
 6. Default feedrates and acceleration have been increased
 7. Firmware version info indicates enabled items
 8. For PREPARE, filament load/unload has been automated for release 1.3
+9. Filament runs outs are more automated (park, unload, confirm, load, resume)
 
 CJ = Classic Jerk
 LA = Linear Advance
