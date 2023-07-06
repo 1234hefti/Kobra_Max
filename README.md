@@ -48,6 +48,8 @@ eSteps for extrusion, any PID tuning may have to be redone
 8. For PREPARE, filament load/unload has been automated for release 1.3
 9. Filament runs outs are more automated (park, unload, confirm, load, resume)
 10. Correct thermistor is now selected for hot end. Normal print temps for PLA will be 200-215 range
+11. LCD Pause mode supported
+12. Printer statistics enabled (M78) or available if updating the LCD with DWIN_SET
 
 CJ = Classic Jerk
 LA = Linear Advance
